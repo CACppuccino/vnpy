@@ -1,6 +1,6 @@
 six==1.13.0
 wheel
-PyQt5==5.14.1
+PyQt5==5.15
 pyqtgraph==0.10.0
 dataclasses; python_version<="3.6"
 qdarkstyle
@@ -21,6 +21,5 @@ ta-lib
 ibapi
 deap
 pyzmq
-wmi
 QScintilla
 plotly
